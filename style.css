@@ -1,0 +1,31 @@
+/* style div rot */
+#rot{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* cearte js card */
+.card{
+    margin-bottom: 30px;
+    margin-right: 20px;
+    text-align: center;
+    box-shadow: 3px 5px 10px 2px;
+}
+/*  ceate js p style name  */
+.name{
+    color: rgb(0, 0, 0);  
+}
+/* Psammmary ceate js p  */
+.Psammmary{
+    width:300px;
+    flex-wrap: wrap;
+}
+/* style search */
+#secrch{
+    width:300px;
+}
+/* episodeSelector */
+#episodeSelector{
+    width: 200px;
+    height: 25px;
+}
